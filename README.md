@@ -1,0 +1,2 @@
+Modelling 1D lithium-ion battery interface for studying the discharge and charge of a lithium-ion battery for a choice of materials and dimensions for different type of electrolyte, separator, current collectors, negative and positive electrode.
+3D model is utilized for thermal simulations, encompassing the flow around the battery within a compartment and heat source in an active battery material domain calculated by heat generated in 1D model, which affects the heat transfer rate.
